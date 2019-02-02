@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mcneely
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.paulmcneely.com
+  * I am mcneely (https://keybase.io/mcneely) on keybase.
+  * I have a public key ASALsPXAAv2LOIE1ApE8dxwltfLBFA2AN0T7L2iy3lipXQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012046035f87462cee4da954e5477bd309ecb8830e5b2aba3ed286f7132c24d6a1520a",
+      "host": "keybase.io",
+      "kid": "01200bb0f5c002fd8b38813502913c771c25b5f2c1140d803744fb2f68b2de58a95d0a",
+      "uid": "562b70ed506efef70416494c86573419",
+      "username": "mcneely"
+    },
+    "merkle_root": {
+      "ctime": 1549066027,
+      "hash": "37a2fe03ff20b130c4bef7bf0b73e5909576020101638f03fbbf78842628d6ab6415b6c70e54a297665b27d9d89702231ce6bb4d8ca70c37a4de73b49d5fa629",
+      "hash_meta": "08368b51c04f24e26db5d8ec7ff873c0281f43dd26ebe7009bdd882315c713fe",
+      "seqno": 4681758
+    },
+    "service": {
+      "entropy": "LRy7GqeqMPzny2gcC2uL1+8w",
+      "hostname": "www.paulmcneely.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1549066058,
+  "expire_in": 504576000,
+  "prev": "bb4e6faed57fe5543e722532616c3fd0d48070c4ddb29ce7958b74047504c3ce",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC7D1wAL9iziBNQKRPHccJbXywRQNgDdE+y9ost5YqV0Kp3BheWxvYWTESpcCD8Qgu05vrtV/5VQ+ciUyYWw/0NSAcMTdspznlYt0BHUEw87EILJM1WDOADQLtgjO25nNrfCS6YtMibueI7Jh3O5CH8U2AgHCo3NpZ8RAzwZxw6kZBSxZPAaqmAOWJ8HbNfvCIIsnlZNIDw7lpFZSTZ5RFwqC1RjuZf52dmLSNiwp7AZN+tNaAbB4GNEeDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ+jMJlO+gEwH9Qv9ALXLy2HAnIrdOktYC7VWUsXLO2mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mcneely
+
+==================================================================
